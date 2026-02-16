@@ -1,0 +1,4 @@
+python-telegram-bot
+flask
+duckduckgo_search>=6.0.0
+requests
